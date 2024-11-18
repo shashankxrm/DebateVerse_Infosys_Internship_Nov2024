@@ -7,3 +7,5 @@ export default function Page() {
     </main>
   )
 }
+
+// refer to the readme file for live link of the application
